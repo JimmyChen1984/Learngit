@@ -1,6 +1,6 @@
 Featuere B now after branch FeatureB
 
 
-Jimmy Add end
+Jimmy
 
 Jimmy Add sencond
