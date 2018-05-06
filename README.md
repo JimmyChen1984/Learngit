@@ -1,3 +1,5 @@
+LocalFearue2 commit 1 time
+
 test 1 commit 1
 ## Learn Git command for works
 1. make origin branch new commit
