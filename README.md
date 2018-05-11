@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 commit first
 =======
 LocalFearue2 commit 1 time
@@ -14,4 +13,3 @@ git commit 1 local 1
 git commit 2 local 2
 
 git commit 5
->>>>>>> second commit
